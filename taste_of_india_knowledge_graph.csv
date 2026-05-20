@@ -1,0 +1,29 @@
+entity_type,entity_name,property,property_value,relationship,target_entity
+Restaurant,Taste of India,wallColor,White,HAS_INTERIOR,Interior
+Restaurant,Taste of India,wallDecor,Indian cultural wallpapers and paintings,HAS_DECOR,Decor
+Restaurant,Taste of India,seating,Orange sofas and chair seating,HAS_SEATING,SeatingArea
+Restaurant,Taste of India,wheelchairAccess,Available,HAS_FACILITY,WheelchairAccess
+Restaurant,Taste of India,restrooms,Available,HAS_FACILITY,Restroom
+Restaurant,Taste of India,cleanKitchen,Always neat and hygienic,HAS_KITCHEN,Kitchen
+Restaurant,Taste of India,ambience,Rich and traditional Indian interior,HAS_AMBIENCE,Ambience
+Restaurant,Taste of India,pooja,Daily pooja performed,HAS_RITUAL,PoojaArea
+Restaurant,Taste of India,vinayakaStatue,Large Vinayaka statue at entrance,HAS_STATUE,VinayakaStatue
+Restaurant,Taste of India,mandir,Small mandir inside restaurant,HAS_TEMPLE,Mandir
+Restaurant,Taste of India,customerService,Very welcoming and friendly,HAS_SERVICE,Hospitality
+Restaurant,Taste of India,foodSuggestion,Staff give excellent food suggestions,HAS_STAFF,StaffTeam
+Restaurant,Taste of India,music,Soft Indian classical music,HAS_AMBIENCE,Music
+Restaurant,Taste of India,lighting,Warm golden lighting,HAS_LIGHTING,Lighting
+Restaurant,Taste of India,aroma,Fresh Indian spices aroma,HAS_AROMA,Aroma
+Restaurant,Taste of India,parking,Spacious parking available,HAS_FACILITY,Parking
+Restaurant,Taste of India,familyFriendly,Comfortable for families,HAS_FEATURE,FamilyDining
+Restaurant,Taste of India,privateDining,Private dining space available,HAS_FEATURE,PrivateDining
+Restaurant,Taste of India,takeaway,Fast takeaway service,HAS_SERVICE,Takeaway
+Restaurant,Taste of India,delivery,Quick delivery available,HAS_SERVICE,Delivery
+Staff,Ramakrishna,role,Manager,WORKS_AT,Taste of India
+Staff,Vicky,role,Waiter,WORKS_AT,Taste of India
+Staff,Simran,role,Waiter,WORKS_AT,Taste of India
+Staff,Rahul,role,Waiter,WORKS_AT,Taste of India
+Staff,Krish,role,Chief Chef,WORKS_AT,Taste of India
+Staff,Sid,role,Side Chef,WORKS_AT,Taste of India
+Staff,Uma,role,Side Chef,WORKS_AT,Taste of India
+Staff,Gopi,role,Side Chef,WORKS_AT,Taste of India
